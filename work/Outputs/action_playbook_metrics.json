@@ -1,0 +1,21 @@
+{
+  "month": "2026-03",
+  "clients_in_scope": 37,
+  "content_items_scored": 60645,
+  "gsc_availability_pct": 36.7,
+  "precision_at_20pct_grouped_honest_split": 0.68,
+  "precision_at_20pct_naive_split": 0.718,
+  "naive_split_overstatement_pct": 5.7,
+  "archetype_counts": {
+    "At-Risk Leader": 34823,
+    "Stable": 17408,
+    "Underperforming Mid-Tier": 8414
+  },
+  "action_counts": {
+    "review_ctr_fix": 27665,
+    "no_action": 18526,
+    "review_content_refresh": 9390,
+    "monitor_next_cycle": 5064
+  },
+  "deep_and_declining_count": 0
+}
