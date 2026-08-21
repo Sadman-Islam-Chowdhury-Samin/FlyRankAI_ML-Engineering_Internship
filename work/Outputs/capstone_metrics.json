@@ -1,0 +1,18 @@
+{
+  "month": "2026-03",
+  "n_rows": 60645,
+  "n_clients": 37,
+  "base_rate": 0.5787,
+  "baseline_precision_at_20pct": 0.5867,
+  "logreg_precision_at_20pct": 0.6798,
+  "rf_precision_at_20pct": 0.7135,
+  "features": [
+    "avg_position",
+    "impressions",
+    "actual_ctr",
+    "word_count",
+    "content_age_days"
+  ],
+  "split": "grouped_by_client_70_30",
+  "random_seed": 42
+}
